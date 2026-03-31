@@ -1,0 +1,26 @@
+[
+	{
+		"marca": "Copec",
+		"monto": "$100/lt",
+		"convenio": "Santander Consumer",
+		"dia": "Todos los días"
+	},
+	{
+		"marca": "Shell",
+		"monto": "$100/lt",
+		"convenio": "Líder BCI",
+		"dia": "Lunes"
+	},
+	{
+		"marca": "Aramco",
+		"monto": "$50/lt",
+		"convenio": "Mercado Pago",
+		"dia": "Martes"
+	},
+	{
+		"marca": "Petrobras",
+		"monto": "$170/lt",
+		"convenio": "Check",
+		"dia": "Lunes"
+	}
+]
