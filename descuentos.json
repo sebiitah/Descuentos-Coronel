@@ -84,6 +84,42 @@
 	"convenio": "Banco Consorcio",
 	"dia": "Lunes"
   },
+				 {
+	"marca": "Aramco",
+	"monto": "$50/lt",
+	"convenio": "Mercado Pago",
+	"dia": "Martes"
+  },
+					 {
+	"marca": "Aramco",
+	"monto": "$150/lt",
+	"convenio": "Banco Ripley",
+	"dia": "Miercoles"
+  },
+						 {
+	"marca": "Aramco",
+	"monto": "$200/lt",
+	"convenio": "La Polar (ABC)",
+	"dia": "Jueves"
+  },
+							 {
+	"marca": "Aramco",
+	"monto": "$300/lt",
+	"convenio": "Tenpo",
+	"dia": "Viernes"
+  },
+								 {
+	"marca": " ",
+	"monto": "$0/lt",
+	"convenio": " ",
+	"dia": "Sabado"
+  },
+								 {
+	"marca": "",
+	"monto": "$0/lt",
+	"convenio": " ",
+	"dia": "Domingo"
+  },
 		  {
 	"marca": "Copec",
 	"monto": "$100/lt",
