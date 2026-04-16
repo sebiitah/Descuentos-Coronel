@@ -44,7 +44,7 @@
 			 {
 	"marca": "Aramco",
 	"monto": "$150/lt",
-	"convenio": "Banco Consorcio",
+	"convenio": "Bco Consorcio",
 	"dia": "Lunes"
   },
 				 {
@@ -71,18 +71,7 @@
 	"convenio": "Tenpo",
 	"dia": "Viernes"
   },
-								 {
-	"marca": " ",
-	"monto": "$0/lt",
-	"convenio": " ",
-	"dia": "Sabado"
-  },
-								 {
-	"marca": "",
-	"monto": "$0/lt",
-	"convenio": " ",
-	"dia": "Domingo"
-  },
+								 
 								 {
 	"marca": "Shell",
 	"monto": "$100/lt",
@@ -98,27 +87,17 @@
 										 {
 	"marca": "Shell",
 	"monto": "$100/lt",
-	"convenio": "Banco de Chile",
+	"convenio": "Banco Chile",
 	"dia": "Miercoles"
   },
-											 {
-	"marca": " ",
-	"monto": "$0/lt",
-	"convenio": " ",
-	"dia": "Jueves"
-  },
+
 											 {
 	"marca": "Shell",
 	"monto": "$300/lt",
 	"convenio": "Tenpo",
 	"dia": "Viernes"
   },
-												 {
-	"marca": " ",
-	"monto": "$0/lt",
-	"convenio": " ",
-	"dia": "Sabado"
-  },
+
 												 {
 	"marca": "Shell",
 	"monto": "$100/lt",
