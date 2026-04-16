@@ -1,12 +1,6 @@
 [
   {
 	"marca": "Copec",
-	"monto": "$10/lt",
-	"convenio": "Copec Pay",
-	"dia": "Lunes"
-  },
-  {
-	"marca": "Copec",
 	"monto": "$100/lt",
 	"convenio": "Santander",
 	"dia": "Lunes"
@@ -17,29 +11,11 @@
 	"convenio": "Santander",
 	"dia": "Martes"
   },
-	 {
-	"marca": "Copec",
-	"monto": "$10/lt",
-	"convenio": "Copec Pay",
-	"dia": "Martes"
-  },
 		 {
-	"marca": "Copec",
-	"monto": "$10/lt",
-	"convenio": "Copec Pay",
-	"dia": "Miercoles"
-  },
-		  {
 	"marca": "Copec",
 	"monto": "$100/lt",
 	"convenio": "Santander",
 	"dia": "Miercoles"
-  },
-			 {
-	"marca": "Copec",
-	"monto": "$10/lt",
-	"convenio": "Copec Pay",
-	"dia": "Jueves"
   },
 		  {
 	"marca": "Copec",
@@ -47,24 +23,11 @@
 	"convenio": "Santander",
 	"dia": "Jueves"
   },
-		 {
-	"marca": "Copec",
-	"monto": "$10/lt",
-	"convenio": "Copec Pay",
-	"dia": "Viernes"
-  },
 		  {
 	"marca": "Copec",
 	"monto": "$100/lt",
 	"convenio": "Santander",
 	"dia": "Viernes"
-  },
-
-			 {
-	"marca": "Copec",
-	"monto": "$10/lt",
-	"convenio": "Copec Pay",
-	"dia": "Sabado"
   },
 		  {
 	"marca": "Copec",
@@ -118,6 +81,48 @@
 	"marca": "",
 	"monto": "$0/lt",
 	"convenio": " ",
+	"dia": "Domingo"
+  },
+								 {
+	"marca": "Shell",
+	"monto": "$100/lt",
+	"convenio": "Mercado Pago",
+	"dia": "Lunes"
+  },
+									 {
+	"marca": "Shell",
+	"monto": "$100/lt",
+	"convenio": "Lider BCI",
+	"dia": "Martes"
+  },
+										 {
+	"marca": "Shell",
+	"monto": "$100/lt",
+	"convenio": "Banco de Chile",
+	"dia": "Miercoles"
+  },
+											 {
+	"marca": " ",
+	"monto": "$0/lt",
+	"convenio": " ",
+	"dia": "Jueves"
+  },
+											 {
+	"marca": "Shell",
+	"monto": "$300/lt",
+	"convenio": "Tenpo",
+	"dia": "Viernes"
+  },
+												 {
+	"marca": " ",
+	"monto": "$0/lt",
+	"convenio": " ",
+	"dia": "Sabado"
+  },
+												 {
+	"marca": "Shell",
+	"monto": "$100/lt",
+	"convenio": "Banco Bice",
 	"dia": "Domingo"
   },
 		  {
