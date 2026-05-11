@@ -8,8 +8,38 @@
 	  {
 	"marca": "Copec",
 	"monto": "$100/lt",
+	"convenio": "Cencosud",
+	"dia": "Lunes"
+  },
+		  {
+	"marca": "Copec",
+	"monto": "$100/lt",
+	"convenio": "Jumbo",
+	"dia": "Lunes"
+  },
+	  {
+	"marca": "Copec",
+	"monto": "$100/lt",
 	"convenio": "Rutpay",
 	"dia": "Martes"
+  },
+		  {
+	"marca": "Copec",
+	"monto": "$100/lt",
+	"convenio": "Itau",
+	"dia": "Martes"
+  },
+			  {
+	"marca": "Copec",
+	"monto": "$100/lt",
+	"convenio": "AutoMovil",
+	"dia": "Miercoles"
+  },
+			  {
+	"marca": "Copec",
+	"monto": "$100/lt",
+	"convenio": "Scotiabank",
+	"dia": "Miercoles"
   },
 		 {
 	"marca": "Copec",
@@ -21,6 +51,12 @@
 	"marca": "Copec",
 	"monto": "$100/lt",
 	"convenio": "Santander",
+	"dia": "Jueves"
+  },
+			  {
+	"marca": "Copec",
+	"monto": "$200/lt",
+	"convenio": "Coopeuch",
 	"dia": "Jueves"
   },
 		  {
@@ -35,10 +71,22 @@
 	"convenio": "Santander",
 	"dia": "Sabado"
   },
+			  {
+	"marca": "Copec",
+	"monto": "$100/lt",
+	"convenio": "Mach",
+	"dia": "Sabado"
+  },
 			 {
 	"marca": "Copec",
 	"monto": "$10/lt",
 	"convenio": "Copec Pay",
+	"dia": "Domingo"
+  },
+				 {
+	"marca": "Copec",
+	"monto": "$10/lt",
+	"convenio": "Bice",
 	"dia": "Domingo"
   },
 			 {
@@ -61,7 +109,7 @@
   },
 						 {
 	"marca": "Aramco",
-	"monto": "$200/lt",
+	"monto": "$150/lt",
 	"convenio": "La Polar (ABC)",
 	"dia": "Jueves"
   },
@@ -71,18 +119,42 @@
 	"convenio": "Tenpo",
 	"dia": "Viernes"
   },
+								 {
+	"marca": "Aramco",
+	"monto": "$15/lt",
+	"convenio": "Abc",
+	"dia": "Viernes"
+  },
+									 {
+	"marca": "Aramco",
+	"monto": "$150/lt",
+	"convenio": "SBpay",
+	"dia": "Viernes"
+  },
 								 
 								 {
+	"marca": "Aramco",
+	"monto": "$100/lt",
+	"convenio": "Mercado Pago",
+	"dia": "Sabado"
+  },
+									 {
+	"marca": "Aramco",
+	"monto": "$100/lt",
+	"convenio": "Cruz Verde",
+	"dia": "Domingo"
+  },
+									 {
 	"marca": "Shell",
 	"monto": "$100/lt",
 	"convenio": "Mercado Pago",
 	"dia": "Lunes"
   },
-									 {
+										 {
 	"marca": "Shell",
 	"monto": "$100/lt",
 	"convenio": "Lider BCI",
-	"dia": "Martes"
+	"dia": "Lunes"
   },
 										 {
 	"marca": "Shell",
@@ -98,7 +170,13 @@
 	"dia": "Viernes"
   },
 
-												 {
+													 {
+	"marca": "Shell",
+	"monto": "$200/lt",
+	"convenio": "Scotiabank",
+	"dia": "Sabado"
+  },
+	{
 	"marca": "Shell",
 	"monto": "$100/lt",
 	"convenio": "Banco Bice",
