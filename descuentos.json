@@ -1,9 +1,10 @@
 [
-	  {
+{
 	"marca": "CES",
 	"monto": "$20/lt",
 	"convenio": "todo medio de pago",
-	"dia": "Domingo"
+	"dia": "Domingo",
+	"logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
   },
   {
 	"marca": "Copec",
