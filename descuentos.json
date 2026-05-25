@@ -30,6 +30,24 @@
     "convenio": "Rutpay",
     "dia": "Martes"
   },
+    {
+    "marca": "Copec",
+    "monto": "$10/lt",
+    "convenio": "Copec Pay",
+    "dia": "Martes"
+  },
+      {
+    "marca": "Copec",
+    "monto": "$100/lt",
+    "convenio": "Santander",
+    "dia": "Martes"
+  },
+        {
+    "marca": "Copec",
+    "monto": "$100/lt",
+    "convenio": "Caja los Andes",
+    "dia": "Martes"
+  },
   {
     "marca": "Copec",
     "monto": "$100/lt",
@@ -38,7 +56,7 @@
   },
   {
     "marca": "Copec",
-    "monto": "$100/lt",
+    "monto": "$50/lt",
     "convenio": "AutoMovil",
     "dia": "Miercoles"
   },
@@ -54,6 +72,12 @@
     "convenio": "Santander",
     "dia": "Miercoles"
   },
+    {
+    "marca": "Copec",
+    "monto": "$15/lt",
+    "convenio": "Caja Los Andes",
+    "dia": "Miercoles"
+  },
   {
     "marca": "Copec",
     "monto": "$100/lt",
@@ -62,7 +86,7 @@
   },
   {
     "marca": "Copec",
-    "monto": "$200/lt",
+    "monto": "$100/lt",
     "convenio": "Coopeuch",
     "dia": "Jueves"
   },
@@ -106,6 +130,12 @@
     "marca": "Aramco",
     "monto": "$50/lt",
     "convenio": "Mercado Pago",
+    "dia": "Martes"
+  },
+    {
+    "marca": "Aramco",
+    "monto": "$15/lt",
+    "convenio": "Todo Medio de Pago",
     "dia": "Martes"
   },
   {
@@ -161,6 +191,12 @@
     "monto": "$100/lt",
     "convenio": "Lider BCI",
     "dia": "Lunes"
+  },
+    {
+    "marca": "Shell",
+    "monto": "$100/lt",
+    "convenio": "Lider BCI",
+    "dia": "Martes"
   },
   {
     "marca": "Shell",
