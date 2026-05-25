@@ -1,55 +1,4 @@
-[
-  {
-    "marca": "CES",
-    "monto": "$20/lt",
-    "convenio": "Todo medio de pago",
-    "dia": "Lunes",
-    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
-  },
-    {
-    "marca": "CES",
-    "monto": "$20/lt",
-    "convenio": "Todo medio de pago",
-    "dia": "Martes",
-    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
-  },
-    {
-    "marca": "CES",
-    "monto": "$20/lt",
-    "convenio": "Todo medio de pago",
-    "dia": "Miercoles",
-    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
-  },
-    {
-    "marca": "CES",
-    "monto": "$20/lt",
-    "convenio": "Todo medio de pago",
-    "dia": "Jueves",
-    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
-  },
-    {
-    "marca": "CES",
-    "monto": "$20/lt",
-    "convenio": "Todo medio de pago",
-    "dia": "Viernes",
-    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
-  },
-    {
-    "marca": "CES",
-    "monto": "$20/lt",
-    "convenio": "Todo medio de pago",
-    "dia": "Sabado",
-    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
-  },
-    {
-    "marca": "CES",
-    "monto": "$20/lt",
-    "convenio": "Todo medio de pago",
-    "dia": "Domingo",
-    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
-  },
-
-  
+[  
   {
     "marca": "Copec",
     "monto": "$100/lt",
@@ -250,6 +199,59 @@
     "convenio": "Cruz Verde",
     "dia": "Domingo"
   },
+
+  {
+    "marca": "CES",
+    "monto": "$20/lt",
+    "convenio": "Todo medio de pago",
+    "dia": "Lunes",
+    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
+  },
+    {
+    "marca": "CES",
+    "monto": "$20/lt",
+    "convenio": "Todo medio de pago",
+    "dia": "Martes",
+    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
+  },
+    {
+    "marca": "CES",
+    "monto": "$20/lt",
+    "convenio": "Todo medio de pago",
+    "dia": "Miercoles",
+    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
+  },
+    {
+    "marca": "CES",
+    "monto": "$20/lt",
+    "convenio": "Todo medio de pago",
+    "dia": "Jueves",
+    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
+  },
+    {
+    "marca": "CES",
+    "monto": "$20/lt",
+    "convenio": "Todo medio de pago",
+    "dia": "Viernes",
+    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
+  },
+    {
+    "marca": "CES",
+    "monto": "$20/lt",
+    "convenio": "Todo medio de pago",
+    "dia": "Sabado",
+    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
+  },
+    {
+    "marca": "CES",
+    "monto": "$20/lt",
+    "convenio": "Todo medio de pago",
+    "dia": "Domingo",
+    "logo_url": "https://raw.githubusercontent.com/sebiitah/Descuentos-Coronel/main/logos/CES.png"
+  },
+
+  
+  
   {
     "marca": "Shell",
     "monto": "$100/lt",
