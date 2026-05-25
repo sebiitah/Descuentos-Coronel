@@ -90,6 +90,18 @@
     "convenio": "Coopeuch",
     "dia": "Jueves"
   },
+    {
+    "marca": "Copec",
+    "monto": "$10/lt",
+    "convenio": "Copec Pay",
+    "dia": "Jueves"
+  },
+    {
+    "marca": "Copec",
+    "monto": "$15/lt",
+    "convenio": "Caja Los Andes",
+    "dia": "Jueves"
+  },
   {
     "marca": "Copec",
     "monto": "$100/lt",
