@@ -206,7 +206,12 @@
     "convenio": "Cruz Verde",
     "dia": "Domingo"
   },
-
+  {
+    "marca": "Aramco",
+    "monto": "$150/lt",
+    "convenio": "SPIN Visa",
+    "dia": "Domingo"
+  },
 
   
 
@@ -297,6 +302,12 @@
     "monto": "$200/lt",
     "convenio": "Scotiabank",
     "dia": "Sabado"
+  },
+    {
+    "marca": "Shell",
+    "monto": "$100/lt",
+    "convenio": "Banco Security",
+    "dia": "Domingo"
   },
   {
     "marca": "Shell",
