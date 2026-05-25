@@ -196,8 +196,8 @@
   },
   {
     "marca": "Aramco",
-    "monto": "$100/lt",
-    "convenio": "Mercado Pago",
+    "monto": "$150/lt",
+    "convenio": "SBpay",
     "dia": "Sabado"
   },
   {
