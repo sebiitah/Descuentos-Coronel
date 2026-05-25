@@ -108,6 +108,12 @@
     "convenio": "Santander",
     "dia": "Viernes"
   },
+    {
+    "marca": "Copec",
+    "monto": "$300/lt",
+    "convenio": "Tenpo",
+    "dia": "Viernes"
+  },
   {
     "marca": "Copec",
     "monto": "$100/lt",
@@ -172,6 +178,12 @@
     "marca": "Aramco",
     "monto": "$15/lt",
     "convenio": "La Polar (ABC)",
+    "dia": "Viernes"
+  },
+    {
+    "marca": "Aramco",
+    "monto": "$15/lt",
+    "convenio": "Caja los Andes)",
     "dia": "Viernes"
   },
   {
